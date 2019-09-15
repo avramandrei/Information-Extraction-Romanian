@@ -1,0 +1,7 @@
+keras >= 2.2.4
+keras_contrib >= 2.0.8
+rdflib >= 4.2.2
+networkx >= 2.3
+nlpcube >= 1.1
+
+

@@ -61,7 +61,7 @@ pip install -r requirements.txt
  - Feel free to ask any questions regarding the system by opening an issue or by directly sending me an email at
  avram.andreimarius@gmail.com.
  - We are looking for a team to develop a relationship corpus for the Romanian language to further improve the system.
- Contact me at avram.andreimarius@gmail.com for more information.
+ Contact me at avram.andreimarius@gmail.com for more details.
  
  ## Authors
  - [Andrei-Marius Avram](https://www.linkedin.com/in/andrei-marius-avram-80698a169/)

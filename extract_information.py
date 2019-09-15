@@ -16,10 +16,10 @@ from rdflib.namespace import FOAF, DC, RDF
 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 
-NER_PATH = os.path.join("models", "roner.h5")
-W2I_PATH = os.path.join("models", "w2i.json")
-I2W_PATH = os.path.join("models", "i2w.json")
-ENT2OH_PATH = os.path.join("models", "ent2oh.json")
+NER_PATH = os.path.join("resources", "roner.h5")
+W2I_PATH = os.path.join("resources", "w2i.json")
+I2W_PATH = os.path.join("resources", "i2w.json")
+ENT2OH_PATH = os.path.join("resources", "ent2oh.json")
 SEQ_LEN = 100  # this must be the same as the original NER sequence length
 
 

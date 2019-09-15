@@ -130,6 +130,3 @@ if __name__ == "__main__":
     conll_sentences = create_conll_sentences(args.file_path)
     conllup_sentences = create_conllup_sentences(conll_sentences, args.output_path)
     create_rdf_graph(conllup_sentences, args.output_path)
-
-    custom_objects = {"CRF": CRF, "crf_loss": crf_loss, "crf_accuracy": crf_accuracy}
-    ner = load_model(os.path.join("models", "roner.h5"), custom_objects)

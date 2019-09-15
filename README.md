@@ -26,6 +26,16 @@ Where:
  - `TYPE_OF_ENTITY` is one of the 16 entities described in [RONEC](https://github.com/dumitrescustefan/ronec)
  - `list of words` is a list of words that creates the Subject, predicate or the object of the node
  
+## Installation
+
+Install with:
+
+```
+git clone https://github.com/avramandrei/Information-Extraction-Romanian.git
+cd Information-Extraction-Romanian
+pip install -r requirements.txt
+```
+
  ## Usage
  
  To extract information from a file, run the `extract_information.py` script as following:

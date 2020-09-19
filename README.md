@@ -67,3 +67,18 @@ pip install -r requirements.txt
  - [Andrei-Marius Avram](https://www.linkedin.com/in/andrei-marius-avram-80698a169/)
  - [Stefan Daniel Dumitrescu](https://www.linkedin.com/in/stefandumitrescu/)
  
+## Cite
+Please consider citing the following [paper](https://arxiv.org/abs/1909.01247) as a thank you to the authors: 
+```
+Dumitrescu, Stefan Daniel, and Andrei-Marius Avram. "Introducing RONEC--the Romanian Named Entity Corpus." arXiv preprint arXiv:1909.01247 (2019).
+```
+or in .bibtex format:
+```
+@article{dumitrescu2019introducing,
+  title={Introducing RONEC--the Romanian Named Entity Corpus},
+  author={Dumitrescu, Stefan Daniel and Avram, Andrei-Marius},
+  journal={arXiv preprint arXiv:1909.01247},
+  year={2019}
+}
+```
+ 
